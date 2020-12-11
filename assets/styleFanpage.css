@@ -1,0 +1,52 @@
+h1 {
+    color: red;
+    font-family: arial;
+}
+
+.intro {
+    color: blue;
+    font-size: medium;
+}
+
+h3 {
+    color: blueviolet;
+}
+
+h4 {
+    border: crimson;
+    border-style: solid;
+    border-width: medium;
+    font-weight: bold;
+}
+
+.text {
+    color: green;
+}
+
+.container {
+    width: 1024px;
+    margin: 0 auto;
+    float: left
+}
+
+#vid {
+    width: 50%;
+}
+
+#roles {
+    width: 50%;
+}
+
+h5 {
+    clear: both;
+    content: ”;
+    display: block;
+    font-weight: bold;
+    font-size: large;
+}
+
+.text2 {
+    font-family: Georgia;
+    font-size: small;
+    font-weight: lighter;
+}
