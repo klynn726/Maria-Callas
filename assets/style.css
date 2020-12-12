@@ -17,7 +17,6 @@ h4 {
     border-style: solid;
     border-width: medium;
     font-weight: bold;
-    border-width: 20%;
 }
 
 .text {
@@ -31,11 +30,11 @@ h4 {
 }
 
 #vid {
-    width: 50%;
+    width: 70%;
 }
 
 #roles {
-    width: 50%;
+    width: 30%;
 }
 
 h5 {
